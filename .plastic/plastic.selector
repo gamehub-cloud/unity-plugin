@@ -1,0 +1,4 @@
+repository "shader@asdjhr666@cloud"
+  path "/"
+    br "/main"
+    co "/main"
